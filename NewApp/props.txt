@@ -1,0 +1,9 @@
+1. if you want to use same component at multiple places & you don't want to include title in any one of the section then write below logic:
+
+<Products innerPage={true}/>
+
+{!innerPage && <div className="sec-heading">Section heading</div>}
+
+- in this innerPage have passed true value & it's going to be false over here and can't execute sec-heading class aswell.
+
+-------------------------------------------------------

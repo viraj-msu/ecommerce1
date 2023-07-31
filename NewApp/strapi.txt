@@ -1,0 +1,4 @@
+// http://localhost:1337/admin/content-manager/collectionType/api::product.product?page=1&pageSize=20&sort=id:ASC
+
+
+fc2fef8d66b9698198197d6d794287957e07eefe07c4c7e2ea933e9b522caa7e0e8725c6de53db6a80dd0a44a0c8fcab6647e1df641f0867df2b3921c25281738ee3ca13ecc08d40babcb7e77e83d079e7bec9f36ec53b7d3b63dcd91b5258f698cc3560cc9ddb4eba25b8741f5e8e1cd592c03000e2237b53adc78210b36f57
